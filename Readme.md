@@ -1,5 +1,5 @@
 # Globally Induced Variational Continual Learning
 
-|Gameplay|
+|ANN|
 |:------:|
 |![](plots/ann.pdf)|
