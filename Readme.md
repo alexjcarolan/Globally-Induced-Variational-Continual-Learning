@@ -1,5 +1,5 @@
 # Globally Induced Variational Continual Learning
 
-|ANN|
-|:------:|
-|![](plots/ann.png)|
+|ANN|BNN|
+|:-:|:-:|
+|![](plots/ann.png)|![](plots/bnn.png)|
