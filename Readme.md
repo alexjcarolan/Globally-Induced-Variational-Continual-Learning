@@ -12,8 +12,10 @@ The extension of artificial neural networks from a frequentist scheme to that of
 
 ### Practice
 
-|Standard|Permuted|
-|:------:|:------:|
+The execution of this project began by developing a traditional instead of continual learning model, capable of solving a single task in the form of the standard MNIST problem. The standard MNIST problem involves predicting the value of handwritten digits ranging from 0 to 9, using a data set which contains a total of 60,000 training images and 10,000 testing images. The images are 28 x 28 pixels in size and use a greyscale colour palette in conjunction with anti-aliasing. The execution of this project then transitioned to expanding from a traditional to continual learning model, capable of solving multiple sequential tasks in the form of the permuted MNIST problem. The permuted MNIST problem also involves predicting the value of handwritten digits ranging from 0 to 9, instead though it constructs ten data sets from the standard MNIST data set, by applying ten separate random permutations to the pixels of the images, to create ten separate tasks. The images are still 28 x 28 pixels in size and appear indistinguishable from noise, but actually contain the same distribution of greyscale values as their standard counterpart, and as such can still be distinguished from one another.
+
+|Standard MNIST|Permuted MNIST|
+|:------------:|:------------:|
 |![](plots/standard.png)|![](plots/permuted.png)|
 
 ### Results
