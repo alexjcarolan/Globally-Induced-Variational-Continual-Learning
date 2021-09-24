@@ -7,3 +7,7 @@
 |Standard|Permuted|
 |:------:|:------:|
 |![](plots/standard.png)|![](plots/permuted.png)|
+
+|Original|Improved|
+|:------:|:------:|
+|![](plots/original_results.png)|![](plots/improved_results.png)|
