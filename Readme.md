@@ -8,9 +8,10 @@
 |:------:|:------:|
 |![](plots/standard.png)|![](plots/permuted.png)|
 
-|Original|
-|:------:|
+|Results|
+|:-----:|
 |![](plots/original_results.png)|
-|Improved|
-|:------:|
-|![](plots/improved_results.png)|
+
+|Evidence Lower Bound|Logistic Loss|Predictive Accuracy|
+|:------------------:|:-----------:|:-----------------:|
+|![](plots/original_evidence.png)|![](plots/original_loss.png)|![](plots/original_accuracy.png)|
