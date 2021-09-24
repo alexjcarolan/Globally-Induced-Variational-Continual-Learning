@@ -2,4 +2,4 @@
 
 |ANN|
 |:------:|
-|![](plots/ann.pdf)|
+|![](plots/ann.png)|
